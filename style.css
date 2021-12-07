@@ -6,7 +6,11 @@ body {
   justify-content: center;
 }
 h1 {
+  font-weight: 300;
+}
+h2 {
   font-weight: 200;
+  text-align: center;
 }
 
 * {
